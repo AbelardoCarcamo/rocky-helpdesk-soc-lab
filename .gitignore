@@ -1,0 +1,15 @@
+﻿*.key
+*.pem
+*.env
+.env
+*.sql
+*.sql.gz
+*.bak
+*.iso
+*.qcow2
+*.vma*
+*.kdbx
+*password*
+*secret*
+*credential*
+Thumbs.db
